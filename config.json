@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "automacao-organizacao-arquivos",
+      "title": "File Organization Automation",
+      "description": "Automate file organization with Python using folders, extensions, and safe conflict handling",
+      "path": "assignments/automacao-organizacao-arquivos",
+      "dueDate": "2026-09-20",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
